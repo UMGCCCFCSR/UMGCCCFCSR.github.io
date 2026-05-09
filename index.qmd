@@ -1,0 +1,6 @@
+---
+title: "UMGCCC FCSR - Summer Educational Outreach Project"
+format: html
+---
+
+Hello! Welcome to a temporary landing page. UMGCCC FCSR is hosting four interns this summer, and one of the projects we have for them to do is to build out website and video tutorial style walkthroughs of everything they learn throughout the process. Circle back sporadically, and see how this website resource develops. Cheers! David

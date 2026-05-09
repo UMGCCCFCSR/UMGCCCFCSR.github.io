@@ -1,0 +1,77 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  google-analytics: "G-LZ35J3XE4D"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Thanks for your editing contributions!"
+    type: info
+    position: below-navbar 
+  page-navigation: true 
+  title: "UMGCCC FCSR"
+  navbar:
+    logo: images/hex.svg
+    background: white
+    left:
+      - text: "Landing"
+        href: index.qmd     
+    right:
+    - icon: youtube
+      href: https://www.youtube.com/@CytometryInR
+      aria-label: YouTube
+    - icon: github
+      href: https://github.com/UMGCCCFCSR
+      aria-label: GitHub
+  sidebar:
+    style: floating
+    collapse-level: 1
+    contents:
+    - section: "Summer Research"
+      contents:
+      - text: "Keeping a GitHub/Quarto LabNotebook"
+        href: https://umgcccfcsr.github.io/LabNotebook/
+      - text: "Core Tasks"
+        href: https://umgcccfcsr.github.io/CoreTasks/
+    - section: "Flow Cytometry"
+      contents:
+      - text: "Theory"
+        href: https://umgcccfcsr.github.io/Theory/
+      - text: "Cell Processing"
+        href: https://umgcccfcsr.github.io/CellProcessing/
+      - text: "AntibodyStaining"
+        href: https://umgcccfcsr.github.io/Staining/
+      - text: "Panel Design"
+        href: https://umgcccfcsr.github.io/PanelDesign/
+    - section: "Instrument Tutorials"
+      contents:
+      - text: "Cytek Aurora"
+        href: https://umgcccfcsr.github.io/Aurora/
+      - text: "Cytek Aurora CS"
+        href: https://umgcccfcsr.github.io/AuroraCS/
+      - text: "BD LSRII"
+        href: https://umgcccfcsr.github.io/LSRII/
+      - text: "BD FACSCantoII"
+        href: https://umgcccfcsr.github.io/CantoII/
+      - text: "BD FACSAriaII"
+        href: https://umgcccfcsr.github.io/AriaII/
+      - text: "Amnis FlowSight"
+        href: https://umgcccfcsr.github.io/FlowSight/
+      - text: "Miltenyi MACSQuant10"
+        href: https://umgcccfcsr.github.io/MACSQuant10/
+    - section: "Analysis"
+      contents:
+      - text: "FlowJo v11"
+        href: https://umgcccfcsr.github.io/FlowJo/
+      - text: "FCSExpress"
+        href: https://umgcccfcsr.github.io/FlowJo/
+  page-footer: 
+   left: Made with [Quarto](https://quarto.org/)
+   right: |
+    ![AGPL-3.0](/images/AGPL3.png)
+    ![CC-BY-SA](/images/CCBYSA.png)
+format:
+  html:
+    css: styles.css
+
