@@ -65,7 +65,7 @@ website:
       - text: "FlowJo v11"
         href: https://umgcccfcsr.github.io/FlowJo/
       - text: "FCSExpress"
-        href: https://umgcccfcsr.github.io/FlowJo/
+        href: https://umgcccfcsr.github.io/FCSExpress/
   page-footer: 
    left: Made with [Quarto](https://quarto.org/)
    right: |
