@@ -15,8 +15,16 @@ website:
     logo: images/hex.svg
     background: white
     left:
-      - text: "Landing"
-        href: index.qmd     
+      - text: "Home"
+        href: index.qmd 
+      - text: "Resources"
+        menu:
+        - text: "InstrumentQC"
+          href: https://umgccfcss.github.io/InstrumentQC/
+        - text: "Cytometry in R"
+          href: https://umgccfcss.github.io/CytometryInR/
+        - text: "BISCC_2025"
+          href: https://umgccfcss.github.io/BISCC_2025/    
     right:
     - icon: youtube
       href: https://www.youtube.com/@CytometryInR

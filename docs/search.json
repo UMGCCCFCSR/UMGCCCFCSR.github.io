@@ -2,9 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "UMGCCC FCSR - Summer Educational Outreach Project",
+    "title": "University of Maryland Greenebaum Comprehensive Cancer Center - Flow Cytometry Shared Resource",
     "section": "",
-    "text": "Hello! Welcome to a temporary landing page. UMGCCC FCSR is hosting four interns this summer, and one of the projects we have for them to do is to build out website and video tutorial style walkthroughs of everything they learn throughout the process. Circle back sporadically, and see how this website resource develops. Cheers! David"
+    "text": "This page serves as a redirect to the University of Maryland Greenebaum Comprehensive Cancer Center - Flow Cytometry Shared Resources various individual GitHub repositories and learning resources."
+  },
+  {
+    "objectID": "index.html#cytometry-in-r",
+    "href": "index.html#cytometry-in-r",
+    "title": "University of Maryland Greenebaum Comprehensive Cancer Center - Flow Cytometry Shared Resource",
+    "section": "Cytometry in R",
+    "text": "Cytometry in R\n\nClick here to be redirected to our Cytometry in R course, aimed at those with prior cytometry experience but no-to-little coding experience"
+  },
+  {
+    "objectID": "index.html#instrumentqc-dashboard",
+    "href": "index.html#instrumentqc-dashboard",
+    "title": "University of Maryland Greenebaum Comprehensive Cancer Center - Flow Cytometry Shared Resource",
+    "section": "InstrumentQC Dashboard",
+    "text": "InstrumentQC Dashboard\nTo see the current instrument QC status for the instruments at our core, navigate here"
+  },
+  {
+    "objectID": "index.html#baltimore-introductory-spectral-flow-cytometry-course-biscc",
+    "href": "index.html#baltimore-introductory-spectral-flow-cytometry-course-biscc",
+    "title": "University of Maryland Greenebaum Comprehensive Cancer Center - Flow Cytometry Shared Resource",
+    "section": "Baltimore Introductory Spectral Flow Cytometry Course (BISCC)",
+    "text": "Baltimore Introductory Spectral Flow Cytometry Course (BISCC)\nFor resources related to our 2025 training workshop, go here"
   },
   {
     "objectID": "course/index.html",
