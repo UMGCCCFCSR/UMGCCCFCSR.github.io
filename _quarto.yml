@@ -17,7 +17,11 @@ website:
     left:
       - text: "Home"
         href: index.qmd 
-      - text: "Resources"
+      - text: "Learning Resources"
+        menu:
+        - text: "FlowJo v11"
+          href: https://umgcccfcsr.github.io/FlowJo/
+      - text: "Projects"
         menu:
         - text: "InstrumentQC"
           href: https://umgccfcss.github.io/InstrumentQC/
